@@ -12,7 +12,7 @@ In this tutorial we will deploy Jenkins and HashiCorp Vault in AWS EKS Cluster t
 |=======================
 
 
-[grid="rows",format="csv"]
+[grid="rows,cols",format="csv"]
 [options="header",cols="^,<,<s,<,>m"]
 |===========================
 ID,FName,LName,Address,Phone
