@@ -11,4 +11,3 @@ In this tutorial we will deploy Jenkins and HashiCorp Vault in AWS EKS Cluster t
 |Deploy ingress nginx controller    |helm
 |Deploy Jenkins |helm
 |=======================
-
