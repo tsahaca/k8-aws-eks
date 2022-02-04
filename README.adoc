@@ -13,5 +13,6 @@ In this tutorial we will deploy Jenkins and HashiCorp Vault in AWS EKS Cluster t
 |=======================
 
 References:
+
 . https://github.com/darkn3rd/blog_tutorials/tree/master/kubernetes/eks_b2_provision_eks_eksctl
 .
